@@ -12,10 +12,11 @@ header {
 }
 
 .header__container {
-  background: blanchedalmond;
-  width: 80%;
+  background: white;
+  border-radius: 20px;
+  width: 20%;
   height: 200px;
-  margin: 0 auto;
+  margin: 20px auto;
   border: 1px solid red;
 }
 
