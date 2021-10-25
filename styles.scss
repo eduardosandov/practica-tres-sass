@@ -20,10 +20,15 @@ header {
     margin: 40px auto;    
     padding: 30px;
     text-align: center;
+    font-family: 'Montserrat', sans-serif;
+
+    ::before:hover{
+        margin-top: 90px;
+    }
 }
 
+
 .header__container {
-    font-family: 'Montserrat', sans-serif;
     font-size: 12px;
 }
 .container {
