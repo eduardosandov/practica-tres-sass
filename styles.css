@@ -11,24 +11,22 @@ header {
   display: flex;
 }
 
-.header__container {
+.header-wrap {
   background: white;
   border-radius: 20px;
   width: 20%;
   height: 200px;
-  margin: 20px auto;
-  border: 1px solid red;
+  margin: 40px auto;
+  padding: 30px;
+  text-align: center;
+}
+
+.header__container {
+  font-size: 12px;
 }
 
 .container {
-  position: absolute;
-  margin-top: 50px;
-  border: 1px solid red;
-}
-
-.container h2 {
-  margin-top: 200px;
-  color: #0cf55a;
+  font-size: 20px;
 }
 
 /*# sourceMappingURL=styles.css.map */
