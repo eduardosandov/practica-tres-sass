@@ -5,7 +5,8 @@
 }
 
 body {
-  background: black;
+  background: #001d85;
+  background: linear-gradient(180deg, #001de7 0%, #00d4ff 100%);
 }
 
 header {
